@@ -45,3 +45,18 @@ GIF格式文件直接复制。
 
 静态图像文件一律转为webp格式。
 动态图像文件（GIF）直接复制。
+
+## 其它
+
+### WebP Lib
+
+转换webp格式依赖。
+
+[下载地址](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
+
+### WebP Codec
+
+在电脑上预览webp图像的解码器。
+
+[下载地址](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
+
