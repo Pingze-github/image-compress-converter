@@ -6,6 +6,11 @@
 
 ## 使用
 
+``` python
+c = Converter(ConverterOptions(mode=Mode.AdvancedWithCompatible, quality=Quality.Best))
+c.repaint_dir('./test/origin', './test/output')
+```
+
 ## 说明
 
 ### 元数据
